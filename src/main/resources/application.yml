@@ -1,0 +1,7 @@
+server:
+  port: 3000
+
+python:
+  path:
+    base: ${python.base}
+    model: ${python.model}
