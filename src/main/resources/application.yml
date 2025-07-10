@@ -1,6 +1,7 @@
 server:
-  port: 3000
+  port: 3002
 
+# 파이썬 설정
 python:
   path:
     base: ${python.base}

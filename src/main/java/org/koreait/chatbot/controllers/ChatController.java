@@ -5,9 +5,10 @@ import org.koreait.chatbot.entities.ChatData;
 import org.koreait.chatbot.services.ChatService;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin(origins = "*")
+
 @RestController
 @RequestMapping("/chat")
+@CrossOrigin(origins = "*")
 @RequiredArgsConstructor
 public class ChatController {
     private final ChatService service;
