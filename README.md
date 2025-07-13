@@ -34,4 +34,4 @@ process 메서드
 
 
 # 5. 구현 화면
-https://github.com/juyonghyeon/quick_draw_fe
+https://github.com/juyonghyeon/chatbot_fe
